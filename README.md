@@ -8,6 +8,6 @@ This repository is a comprehensive archive of my work from the [Coursera Introdu
 
 This repository contains the Code I wrote while working through the specialization.
 
-## License
+## Use
 
 The code within this repository is available for educational and learning purposes. Please adhere to Coursera's Honor Code and avoid plagiarizing the code if you are currently taking the specialization.
